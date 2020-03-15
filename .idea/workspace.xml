@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37508cb9-6a1e-4ddc-b018-589fcb5c04a9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhiyou/test/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhiyou/test/gitBranchs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhiyou/test/gitTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhiyou/test/gitTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhiyou/test/testPull.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springdubbo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhiyou/test/gitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhiyou/test/gitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zhiyou/test/demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+              <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
               <folding>
                 <element signature="e#89#90#0" expanded="true" />
                 <element signature="e#125#126#0" expanded="true" />
@@ -265,12 +258,12 @@
       <option name="presentableId" value="Default" />
       <updated>1584278745613</updated>
       <workItem from="1584278746733" duration="382000" />
-      <workItem from="1584279138130" duration="253000" />
+      <workItem from="1584279138130" duration="1163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="635000" />
+    <option name="totallyTimeSpent" value="1545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -382,7 +375,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zhiyou/test/demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
           <folding>
             <element signature="e#89#90#0" expanded="true" />
             <element signature="e#125#126#0" expanded="true" />
